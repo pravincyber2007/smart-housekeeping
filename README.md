@@ -1,0 +1,2 @@
+# smart-housekeeping
+ai hackathon
