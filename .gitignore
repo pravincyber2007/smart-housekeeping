@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+
+# Environment and secrets (VAPID keys, DB passwords)
+.env
+.env.*
+!.env.example
+
+# Skill working folders
+.superpowers/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
